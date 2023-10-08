@@ -50,3 +50,8 @@
     color: #FFF5E0;
     text-decoration: none;
 }
+
+.logo h1:hover {
+    text-decoration: underline;
+    transition: .5s;
+}
